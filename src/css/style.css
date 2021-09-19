@@ -128,15 +128,15 @@ h1.title {
   padding: 8px 5px;
   margin-right: 15px;
   font-size: 1.2em;
-  background-color: #679B00;
-  background: linear-gradient(45deg, #679B00, #86B32D);
-  box-shadow: 0px 4px 4px 0px #436400;
+  background-color:  #630052;;
+  background: linear-gradient(45deg, #630052, #ce358e);
+  box-shadow: 0px 4px 4px 0px #ce1a7a;
   border-radius: 0.5em;
   text-align: center;
 }
 
 .media_file_input:hover {
-  background: #86B32D;
+  background: #b32d91;
 }
  
 .media_file_hidden {
@@ -294,7 +294,7 @@ h1.title {
 }
 
 .media_add_item:hover {
-  background-color: #5CCCCC;
+  background-color: #f52bc6;
 }
 
 .media_add_files::before {
