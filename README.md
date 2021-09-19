@@ -37,7 +37,7 @@
 
 Ввод текстовых сообщений производится с помощью поля, расположенного в нижней части листа сообщений. Отправка сообщения происходит по нажатию клавиши Enter. Отправление пустых сообщений запрещено.
 
-![](https://github.com/KateYachmeneva/ahj-diploma-backend/blob/master/readme_pic/1-sendtext.png)
+![](https://github.com/KateYachmeneva/ahj-diploma-frontend/blob/master/readme_pic/1-sendtext.png)
 
 Отправленное сообщение добавляется в базу данных Органайзера и появляется в ленте сообщений. При этом в сообщении отмечается дата и время отправки.
 
