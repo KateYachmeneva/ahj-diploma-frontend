@@ -2,8 +2,8 @@
 ### Badge
 [![Build status](https://ci.appveyor.com/api/projects/status/o75kamlqim2obw82?svg=true)](https://ci.appveyor.com/project/KateYachmeneva/ahj-diploma-frontend)
 
-[Ссылка на GitHub Pages]()<br>
-[Репозиторий Backend]()
+[Ссылка на GitHub Pages](https://kateyachmeneva.github.io/ahj-diploma-frontend/)<br>
+[Репозиторий Backend](https://github.com/KateYachmeneva/ahj-diploma-backend)
 
 ---
 
